@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryCacheComponent.cs", "InMemoryCacheComponent.cs\InMemoryCacheComponent.cs.csproj", "{8BB7A192-8CBD-47DD-8FD3-EF88A7752F36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryCacheComponentTests", "InMemoryCacheComponentTests\InMemoryCacheComponentTests.csproj", "{070CCA7F-A7DB-40BD-9ED0-13F5BC5D55DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BB7A192-8CBD-47DD-8FD3-EF88A7752F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB7A192-8CBD-47DD-8FD3-EF88A7752F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB7A192-8CBD-47DD-8FD3-EF88A7752F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB7A192-8CBD-47DD-8FD3-EF88A7752F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{070CCA7F-A7DB-40BD-9ED0-13F5BC5D55DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070CCA7F-A7DB-40BD-9ED0-13F5BC5D55DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070CCA7F-A7DB-40BD-9ED0-13F5BC5D55DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070CCA7F-A7DB-40BD-9ED0-13F5BC5D55DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC10BB38-6E0A-4C71-BDC2-02755CC392BE}
+	EndGlobalSection
+EndGlobal
